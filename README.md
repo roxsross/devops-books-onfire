@@ -4,7 +4,7 @@
 ![RoxsRoss Banner](https://media.licdn.com/dms/image/v2/D4D16AQF4ND-cC_uxZg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731367727725?e=1741219200&v=beta&t=9wrpURrkuzoztA0KBxcXE8lYeL8Qruoq9AyD63f3lJM)
 
 
-Una colección cuidadosamente seleccionada de recursos educativos sobre DevOps, Desarrollo de Software y Tecnologías Cloud.
+### Una colección cuidadosamente seleccionada de recursos educativos sobre DevOps, Desarrollo de Software y Tecnologías Cloud.
 
 ## 🔧 Categorías
 
@@ -62,7 +62,6 @@ Una colección cuidadosamente seleccionada de recursos educativos sobre DevOps, 
 
 ---
 
-![RoxsRoss Banner](https://github.com/roxsross/roxsross/blob/main/images/roxsross-banner-1.png)
 
 ## 🤝 Contribuciones
 
